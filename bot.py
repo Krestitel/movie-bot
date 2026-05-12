@@ -11,7 +11,7 @@ from datetime import datetime
 # КОНФИГУРАЦИЯ
 # ============================================
 
-BOT_TOKEN = "8767537651:AAGdYZ3_CtyMjUJwy_vF4aT_5UH1HMEqyO4"
+BOT_TOKEN = "8767537651:AAGmhRwLcDpkijAHj_b6frhCynZrD09Qwic"
 TMDB_API_KEY = "c93a533c091791e717d708cc88983e19"
 
 # Создаём папку для логов
